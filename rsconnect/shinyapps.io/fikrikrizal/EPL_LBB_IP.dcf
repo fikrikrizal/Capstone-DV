@@ -1,0 +1,13 @@
+name: EPL_LBB_IP
+title: EPL_LBB_IP
+username:
+account: fikrikrizal
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6739279
+bundleId: 6166136
+url: https://fikrikrizal.shinyapps.io/EPL_LBB_IP/
+when: 1659628011.5327
+lastSyncTime: 1659628011.53272
+asMultiple: FALSE
+asStatic: FALSE
